@@ -31,7 +31,7 @@ organizations:
     url: https://labsticc.fr/
 education:
   courses:
-    - course: PhD student in Virtual and AugmentedReality
+    - course: PhD in Virtual and Augmented Reality
       institution: Inria Rennes - Hybrid / UMR AAU Crenau – Centrale Nantes
       year: 2020
     - course: "'Diplôme d’Ingénieur' (equivalent to MSc)"
