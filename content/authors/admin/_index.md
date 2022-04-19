@@ -1,5 +1,6 @@
 ---
 role: Associate Professor
+avatar_filename: dsc_2375.jpg
 bio: "My research interests include human perception issues in Virtual and
   Augmented Reality, spatial perception in virtual and augmented environments,
   and more generally, the effect of perceptual biases in mixed environments. "
