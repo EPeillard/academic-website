@@ -6,8 +6,9 @@ summary: |-
   <https://anr.fr/Projet-ANR-20-CE38-0016>
 draft: false
 featured: false
-categories:
-  - CulturalHeritage
+tags:
+  - Cultural Heritage
+categories: []
 image:
   filename: ""
   focal_point: Smart
