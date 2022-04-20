@@ -1,41 +1,48 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+summary: The project aims to develop a theme that is currently underdeveloped in
+  the field of virtual and augmented reality. The aim is to propose
+  visualization techniques for mixed reality adapted to spatially complex
+  learning tasks. This objective is first of all part of a methodological
+  approach aiming at exploring the different types of possible representations,
+  based on perceptual evaluations and metrics. However, this preliminary work
+  also aims at proposing specific evaluations for certain learning tasks,
+  allowing to facilitate the design of mixed reality applications adapted to
+  this use case.
+url_video: ""
+date: 2022-04-20T07:45:55.563Z
+external_link: ""
+url_slides: ""
+title: Guevara
+tags:
+  - Interaction
+  - Industry
+links: []
+image:
+  caption: ""
+  focal_point: ""
+url_code: ""
 ---
+The principle of augmented reality (AR) lies in the fact of displaying virtual elements and real elements in a superimposed way. Thus, it allows to add virtual elements to reality or to modify real elements, and this in a co-located way. In such an application, the user can be surrounded by virtual elements linked to his environment. However, only the elements placed in front of him, in his field of vision, will be visible. All the other virtual elements will be invisible as long as they are not looked at; the information which is not in the field of vision is thus not perceived. The representation of information outside the field of vision is therefore a strong issue for AR in order to make such information perceptible.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+This problem is in fact twofold. On the one hand, it is a question of representing objects that are outside the user's field of view in order to "inform" him of their presence (Petford 2019). On the other hand, techniques aimed not at representing objects but at guiding the user's gaze can also be used (Biocca, 2007).
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Several works have already addressed this problem of representing objects outside the field of view in both virtual and augmented reality. Moreover, the limited field of view of augmented reality devices further amplifies this problem (Kishishita, 2014). However, this subject remains relatively untreated and various barriers still remain to be removed from a technological and perceptual point of view. Indeed, it is necessary both to manage to represent these elements on a limited display but also not to multiply the information which would overload the user.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+On the other hand, AR environments also allow us to offer a learner multiple stimuli: verbal, visual, haptic, etc. Because the sensory system and working memory have limited capacities, processing information can be cognitively expensive. In the case of too much data to be coded and processed simultaneously, the sensory and memory systems can become cognitively overloaded (Roda and Thomas, 2006).
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+It is possible to compensate for the difficulties of processing visual (or multimedia) information. To do so, it is important to focus on the user's interaction with AR in a learning situation. Thus, the use of visual cues could help to guide the learner in the execution of the actions of the procedure, while the virtual environment helps to maintain and direct his attention through methods of information display (Rapp, 2006).
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+In this context, the objective of this project will be to propose visual guides and methods for representing objects outside the field of vision in a specific situation: that of learning procedures in augmented reality. We will first rely on existing proposals in terms of AR representation, evaluating them with respect to our application case in order to highlight their shortcomings and possible improvements. We will then focus on an evaluation based on cognitive psychology and ergonomics to propose representation and guidance techniques adapted to a learning task. These results will finally allow us to propose a set of techniques and best practices for the development of learning applications in AR. These recommendations will be particularly adapted to an industrial use of AR, which allows the learning of complex procedures (Bottani, 2019). 
+
+ 
+
+Références :
+
+* Biocca, F., Owen, C., Tang, A., & Bohil, C. (2007). Attention issues in spatial information systems: Directing mobile users’ visual attention using augmented reality. *Journal of Management Information Systems*, *23*(4), 163–184.
+* Bottani, E., & Vignali, G. (2019). Augmented reality technology in the manufacturing industry: A review of the last decade. *IISE Transactions*, *51*(3), 284–310.
+* Kishishita, N., Kiyokawa, K., Orlosky, J., Mashita, T., Takemura, H., & Kruijff, E. (2014). Analysing the effects of a wide field of view augmented reality display on search performance in divided attention tasks. *ISMAR 2014 - IEEE International Symposium on Mixed and Augmented Reality - Science and Technology 2014, Proceedings*, 177–186.
+* Petford, J., Carson, I., Nacenta, M. A., & Gutwin, C. (2019, May 2). A comparison of guiding techniques for out-of-view objects in full-coverage displays. *Conference on Human Factors in Computing Systems - Proceedings*.
+* Rapp, D. N. (2006). The value of attention aware systems in educational settings. *Computers in Human Behavior*, *22*(4), 603–614.
+* Roda, C., & Thomas, J. (2006). Attention aware systems: Theories, applications, and research agenda. *Computers in Human Behavior*, *22*(4), 557–587.
