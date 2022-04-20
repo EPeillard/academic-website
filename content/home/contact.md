@@ -24,33 +24,44 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
-  # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  # Contact (edit or remove options as required)
+
+  email: etienne.peillard@imt-atlantique.fr
+  phone: +33 2 29 00 10 19
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Technopôle Brest-Iroise CS 83818
+    city: Brest Cedex 3
+    postcode: '29238'
+    country: France
+    country_code: FR
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '48.35832947156577'
+    longitude: '-4.570283257412073'
+  directions: From main entrance, go to the main hall and then follow "Building D3 - Département informatique" signs, to office D3-107 on Floor 2.  
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday to Friday 9:00 to 18:30'
+  # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: DM me on Twitter
+      link: 'https://twitter.com/EPeillard'
+    - icon: linkedin
+      icon_pack: fab
+      name: DM me on LinkedIn
+      link: 'https://www.linkedin.com/in/etienne-peillard-81012182/'
+    # - icon: skype
+    #   icon_pack: fab
+    #   name: Skype Me
+    #   link: 'skype:echo123?call'
+    # - icon: keybase
+    #   icon_pack: fab
+    #   name: Chat on Keybase
+    #   link: 'https://keybase.io/'
+    # - icon: comments
+    #   icon_pack: fas
+    #   name: Discuss on Forum
+    #   link: 'https://discourse.gohugo.io'
 
 design:
   columns: '2'

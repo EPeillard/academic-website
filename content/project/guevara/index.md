@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ''
 url_pdf: ""
 summary: The project aims to develop a theme that is currently underdeveloped in
   the field of virtual and augmented reality. The aim is to propose

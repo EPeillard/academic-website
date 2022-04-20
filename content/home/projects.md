@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Interaction
+    tag: 'Interaction'
+  - name: Perception
+    tag: 'Perception'
+  - name: Collaboration
+    tag: 'Collaboration'
+  - name: Visualization
+    tag: 'Visualization'
+  - name: Avatar
+    tag: 'Avatar'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
