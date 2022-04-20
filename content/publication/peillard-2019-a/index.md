@@ -36,10 +36,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [phd-thesis]
 publishDate: '2022-04-20T13:43:39.920130Z'
 publication_types:
-- '2'
+- '1'
 abstract: 'While perceptual biases have been widely investigated in Virtual Reality
   (VR), very few studies have considered the challenging environment of Optical See-through
   Augmented Reality (OST-AR). Moreover, regarding distance perception, existing works

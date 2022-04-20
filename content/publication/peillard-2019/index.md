@@ -16,7 +16,6 @@ tags:
 - distance
 - perception
 - psychophysical study
-- surname
 - user experiment
 - virtual reality
 categories: []
@@ -38,7 +37,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [phd-thesis]
 publishDate: '2022-04-20T13:43:36.394197Z'
 publication_types:
 - '1'
@@ -66,4 +65,5 @@ doi: 10.1109/VR.2019.8797826
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/8797826/
+url_video: https://www.youtube.com/watch?v=BBeZA8QFIHc
 ---

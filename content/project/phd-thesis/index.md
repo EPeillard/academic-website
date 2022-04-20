@@ -2,7 +2,7 @@
 title: PhD Thesis
 subtitle: "Toward a Characterization of Perceptual Biases in Mixed Reality : A
   Study of Factors Inducing Distance Misperception "
-date: 2022-04-20T14:37:09.385Z
+date: 2020-11-24
 draft: false
 featured: false
 tags:
