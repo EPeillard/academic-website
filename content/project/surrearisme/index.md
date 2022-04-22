@@ -1,9 +1,11 @@
 ---
 title: SurréARisme
-subtitle: Exploring Perceptual Realism in Mixed Reality using Novel Near-Eye Display Technologies
+subtitle: Exploring Perceptual Realism in Mixed Reality using Novel Near-Eye
+  Display Technologies
 date: 2022-04-20T07:54:23.385Z
-summary: |-
-  A joint program with University of Tokyo to design new rendering techniques to provide better representations of objects in Augmented Reality.
+summary: A joint program with University of Tokyo and Centrale Nantes to design
+  new rendering techniques to provide better representations of objects in
+  Augmented Reality.
 draft: false
 featured: false
 tags:
