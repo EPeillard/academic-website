@@ -14,7 +14,8 @@ url_video: ""
 date: 2022-04-20T07:45:55.563Z
 external_link: ""
 url_slides: ""
-title: Guevara
+title: GUEVARA
+subtitle: Visual Guides for Learning in Augmented Reality
 tags:
   - Interaction
   - Industry

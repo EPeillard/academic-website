@@ -2,8 +2,7 @@
 title: LabInVirtuo
 date: 2022-04-20T07:54:23.385Z
 summary: |-
-  Project funded by the French National Research Agency, led by Ronan Querrec\
-  <https://anr.fr/Projet-ANR-20-CE38-0016>
+  Project funded by the French National Research Agency, led by Ronan Querrec. 
 draft: false
 featured: false
 tags:
@@ -13,10 +12,13 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+links: 
+  - icon_pack: fas
+    icon: home
+    name: Project homepage
+    url: 'https://anr.fr/Projet-ANR-20-CE38-0016'
 ---
-Project funded by the French National Research Agency, led by Ronan Querrec\
-<https://anr.fr/Projet-ANR-20-CE38-0016>
-
+Project funded by the French National Research Agency, led by Ronan Querrec. 
 
 
 > The hypothesis we defend is twofold:

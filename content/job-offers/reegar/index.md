@@ -1,10 +1,10 @@
 ---
-title: Postdoctoral Position - 11 months (starting February 2022)
+title: Postdoctoral Position
 subtitle: Is that Real enough? EEG markers of real vs virtual objects for an enhanced AR-BCI setting
-summary: "**11 months post-doctoral position**, related to a project at the intersection of **Augmented Reality** and **Brain-Computer Interfaces**"
+summary: "**11 months post-doctoral position** (starting February 2022), related to a project at the intersection of **Augmented Reality** and **Brain-Computer Interfaces**"
 authors:
 - admin
-tags: [Augmented Reality, Electroencephalography, Brain Computer Interfaces, Perception of Virtual Objects]
+tags: [Augmented Reality, Electroencephalography, Brain Computer Interfaces, Perception]
 categories: []
 projects: [reegar]
 date: "2019-02-05T00:00:00Z"

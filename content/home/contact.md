@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '48.35832947156577'
     longitude: '-4.570283257412073'
-  directions: From main entrance, go to the main hall and then follow "Building D3 - Département informatique" signs, to office D3-107 on Floor 2.  
+  directions: From main entrance, go to the main hall and then follow "Building D3 - Département informatique" signs, to office D3-107 on Floor 1.  
   office_hours:
     - 'Monday to Friday 9:00 to 18:30'
   # appointment_url: 'https://calendly.com'
