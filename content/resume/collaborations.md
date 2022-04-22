@@ -4,10 +4,10 @@
 widget: featurette
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 55
+weight: 40
 
 title: Collaborations
 subtitle: ""

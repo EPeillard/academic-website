@@ -7,7 +7,7 @@ widget: experience
 headless: false
 
 # Order that this section appears on the page.
-weight: 40
+weight: 10
 
 title: Training and Qualifications
 subtitle:
@@ -89,5 +89,5 @@ experience:
     description: A 2-year intensive course in mathematics, physics and chemistry, preparing for the national competitive entry examinations for French Schools of Engineering.
 
 design:
-  columns: '1'
+  columns: '2'
 ---

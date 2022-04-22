@@ -7,7 +7,7 @@ widget: experience
 headless: false
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
 title: Professional experience
 subtitle:
@@ -108,5 +108,5 @@ experience:
       Participation in the exhibition "Planetary Travel" at `La Cité des Congrès de Nantes’
 
 design:
-  columns: '1'
+  columns: '2'
 ---
