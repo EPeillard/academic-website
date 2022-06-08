@@ -19,6 +19,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.fr/citations?user=PAueLacAAAAJ
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Etienne-Peillard
   - icon: github
     icon_pack: fab
     link: https://github.com/EPeillard

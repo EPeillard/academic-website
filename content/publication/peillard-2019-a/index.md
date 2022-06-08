@@ -11,12 +11,9 @@ authors:
 - Anatole Lecuyer
 - Guillaume Moreau
 tags:
-- ''
 - Augmented Reality
-- Distance
-- Perception
-- Psychophysical Study
-- User Experiment
+- Distance Perception
+- Exocentric Distance
 categories: []
 date: '2019-01-01'
 lastmod: 2022-04-20T15:43:40+02:00

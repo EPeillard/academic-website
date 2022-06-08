@@ -4,7 +4,7 @@ subtitle: Visual Guides for Learning in Augmented Reality
 summary: "**24 months postdoctoral position**, associated to a project aiming at proposing **visualization techniques for augmented reality** adapted to spatially complex learning tasks. "
 authors:
 - admin
-tags: [augmented reality, human-computer interfaces, perception, cognitive psychology, ergonomics]
+tags: [Augmented Reality, Human-Computer Interfaces, Perception, Cognitive Psychology, Ergonomics]
 categories: []
 projects: [guevara]
 date: "2019-02-05T00:00:00Z"

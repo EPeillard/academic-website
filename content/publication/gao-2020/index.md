@@ -13,11 +13,11 @@ authors:
 - Yue Liu
 - Yongtian Wang
 tags:
-- augmented reality
-- distance perception
-- lighting coherence
-- optical see-through HMD
-- shadows
+- Augmented Reality
+- Distance Perception
+- Lighting coherence
+- Optical See-Through HMD
+- Shadows
 categories: []
 date: '2020-02-01'
 lastmod: 2022-04-20T15:43:39+02:00

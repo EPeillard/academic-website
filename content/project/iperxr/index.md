@@ -5,7 +5,7 @@ date: 2022-04-20T07:54:23.385Z
 summary: |-
   Joint program with CLARTE, to develop a methodological framework for the development of component-based XR applications to improve the perception and efficiency of XR tasks through the adjustment of the representation during interaction. 
 draft: false
-featured: false
+featured: true
 tags:
   - Industry
   - Visualization

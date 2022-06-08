@@ -4,7 +4,7 @@ subtitle: "Toward a Characterization of Perceptual Biases in Mixed Reality : A
   Study of Factors Inducing Distance Misperception "
 date: 2020-11-24
 draft: false
-featured: false
+featured: true
 tags:
   - Perception
   - Interaction

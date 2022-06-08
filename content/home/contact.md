@@ -35,8 +35,8 @@ content:
     country: France
     country_code: FR
   coordinates:
-    latitude: '48.35832947156577'
-    longitude: '-4.570283257412073'
+    latitude: '48.358833'
+    longitude: '-4.570972'
   directions: From main entrance, go to the main hall and then follow "Building D3 - Département informatique" signs, to office D3-107 on Floor 1.  
   office_hours:
     - 'Monday to Friday 9:00 to 18:30'

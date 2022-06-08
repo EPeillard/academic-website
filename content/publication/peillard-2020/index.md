@@ -13,10 +13,8 @@ authors:
 - Ferran Argelaguet
 tags:
 - Augmented Reality
-- Distance
-- Perception
-- Psychophysical Study
-- User Experiment
+- Distance Perception
+- Retinal Projection Displays
 categories: []
 date: '2020-01-01'
 lastmod: 2022-04-20T15:43:38+02:00

@@ -2,7 +2,7 @@
 title: ARAVIDEN
 date: 2022-04-20T08:59:34.865Z
 draft: false
-featured: false
+featured: true
 authors:
 tags:
   - Avatar

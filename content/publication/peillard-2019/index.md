@@ -13,11 +13,9 @@ authors:
 - Guillaume Moreau
 - Anatole Lécuyer
 tags:
-- distance
-- perception
-- psychophysical study
-- user experiment
-- virtual reality
+- Distance Perception
+- Perception
+- Virtual Reality
 categories: []
 date: '2019-03-01'
 lastmod: 2022-04-20T15:43:37+02:00
