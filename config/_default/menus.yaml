@@ -7,14 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Resume
-    url: 'resume/'
-    weight: 15
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
   - name: Projects
-    url: '#projects'
+    url: '#mainProjects'
     weight: 30
   # - name: Talks
   #   url: '#talks'
@@ -24,10 +21,46 @@ main:
     weight: 50
   - name: Teaching
     url: 'teaching/'
-    weight: 55
+    weight: 60
+  - name: '|'
+    weight: 70
+  - name: Resume
+    identifier: resume
+    url: 'resume/'
+    weight: 80
+  - name: Training and Qualifications
+    parent: resume
+    url: 'resume/#qualifications'
+    weight: 1
+  - name: Professional experience
+    parent: resume
+    url: 'resume/#experience'
+    weight: 2
+  - name: Awards
+    parent: resume
+    url: 'resume/#awards'
+    weight: 3
+  - name: Collaborations
+    parent: resume
+    url: 'resume/#collaborations'
+    weight: 4
+  - name: Involvement in academic research
+    parent: resume
+    url: 'resume/#research'
+    weight: 5
+  - name: Teaching
+    parent: resume
+    url: 'resume/#teaching'
+    weight: 6
+  - name: Other activities
+    parent: resume
+    url: 'resume/#otherActivities'
+    weight: 7
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 90
+
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

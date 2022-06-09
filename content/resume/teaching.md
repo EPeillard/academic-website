@@ -36,6 +36,10 @@ experience:
       * Second and third year, HCI major (eq. M1-2)
         * RAUG (computer vision and augmented reality)
           * Lecture and practicals, 2021-now
+        * TERV (techniques and challenges for virtual reality)
+          * Lecture and practicals, 2021-now
+        * LogIHM (HCI principals for virtual reality)
+          * Lecture and practicals, 2021-now
   - title: Engineering program
     company: École Centrale de Nantes
     company_url: ''
