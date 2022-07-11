@@ -44,18 +44,22 @@ main:
     parent: resume
     url: 'resume/#collaborations'
     weight: 4
+  - name: Student mentoring and supervision
+    parent: resume
+    url: 'resume/#supervision'
+    weight: 5
   - name: Involvement in academic research
     parent: resume
     url: 'resume/#research'
-    weight: 5
+    weight: 6
   - name: Teaching
     parent: resume
     url: 'resume/#teaching'
-    weight: 6
+    weight: 7
   - name: Other activities
     parent: resume
     url: 'resume/#otherActivities'
-    weight: 7
+    weight: 8
   - name: Contact
     url: '#contact'
     weight: 90
