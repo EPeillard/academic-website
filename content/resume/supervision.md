@@ -11,8 +11,7 @@ design:
   columns: '1'
 ---
 
-
-```mermaid
+{{< mermaid >}}
   gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
@@ -29,4 +28,4 @@ design:
         Lucas Bernin: 2022-01-31, 2022-07-15
         Hugo Da Maïa: 2022-04-04, 2022-08-12
         Daniel Ledoussal: 2022-05-09, 2022-06-03
-```
+{{< /mermaid >}}
