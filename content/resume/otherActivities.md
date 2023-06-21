@@ -24,6 +24,10 @@ Presentation of the laboratory's project Coraulis (Observation center in augment
 
 # Administrative Responsibilities
 
+## IMT Atlantique
+* Deputy teaching assistant to the department head for the Computer Science department
+* Project manager for the CEXI-HA platform (*Centre d'EXpérimentation en Interaction pour l'Humain Augmenté*) (Experimental Center for Interaction and Augmented Human)
+
 ## Centrale Nantes
 
 * Student representative on the Board of Studies (2014-2016)
@@ -40,6 +44,6 @@ Presentation of the laboratory's project Coraulis (Observation center in augment
 # Personal Interests
 
 * Fencing
-* Go
+* Go (instructor for the French federation and president of the Brest club)
 * Travels
 * Photos ([my Flickr profile](https://www.flickr.com/people/163848506@N06/))

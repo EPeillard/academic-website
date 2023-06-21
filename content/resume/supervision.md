@@ -23,9 +23,15 @@ design:
         Thi Thanh Hoa Tran : active, 2022-09-01, 2025-08-31
     section Post-doc
         Marie Jarrell   : active, 2021-11-01, 2023-10-31
+        Anjara Nobby Rakotoarivelo  : active, 2023-01-01, 2023-12-31
+    section Research engineers
+        Jérémie Donjat  : 2022-12-01, 2023-05-31
     section Master students
         Guyllian Gomez: 2021-01-19, 2021-07-30
         Lucas Bernin: 2022-01-31, 2022-07-15
         Hugo Da Maïa: 2022-04-04, 2022-08-12
         Daniel Ledoussal: 2022-05-09, 2022-06-03
+        Nolwenn Paluet: 2023-03-01, 2023-08-31
+        Clément Jézéquel: 2023-03-01, 2023-08-31
+        Ambre Daigremont: 2023-04-01, 2023-07-31
 {{< /mermaid >}}
