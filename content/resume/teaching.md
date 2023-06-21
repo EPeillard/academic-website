@@ -44,7 +44,7 @@ experience:
     company: École Centrale de Nantes
     company_url: ''
     company_logo: 'ecn'
-    location: Brest
+    location: Nantes
     date_start: '2017-09-01'
     date_end: '2020-06-01'
     description: >-
@@ -66,7 +66,7 @@ experience:
     company: École Polytechnique
     company_url: ''
     company_logo: 'x'
-    location: Brest
+    location: Palaiseau
     date_start: '2020-02-01'
     date_end: '2020-02-01'
     description: >-
