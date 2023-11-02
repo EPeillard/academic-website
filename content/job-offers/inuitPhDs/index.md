@@ -87,3 +87,13 @@ Postdoc Offers
 * *Collaboration*: Inria, Centrale Nantes, Clarté
 * *Location*: Brest, France
 * *Status*: **Available**, starting spring 2024
+
+Engineer positions Offers
+-------------------------
+
+### Platform engineer for the Augmented Human and Interaction Experimentation Center
+* *Contact*: Étienne Peillard (etienne.peillard@imt-atlantique.fr)
+* *Details*: [here](https://www.etiennepeillard.com/job-offers/inuitPhDs/ingeCEXI.pdf) (only avalaible in French)
+* *Location*: Brest, France
+* *Status*: **Available**, starting January 2024
+* *Note*: This position aims to deploy and strengthen the IMT Atlantique experimentation platform. This position aims to be perpetuated in the following years.
