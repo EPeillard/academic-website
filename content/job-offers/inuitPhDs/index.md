@@ -74,3 +74,16 @@ Phd Offers
 * *Collaboration*: Université de Bretagne Occidentale
 * *Location*: Brest, France
 * *Status*: **Looking for candidate**, starting late 2024
+
+
+Postdoc Offers
+--------------
+
+### Using avatars in Mixed Reality. Creation of an experimentation platform and development of avatarization algorithms
+* *Contact*: Étienne Peillard (etienne.peillard@imt-atlantique.fr) and Guillaume Moreau (guillaume.moreau@imt-atlantique.fr)
+* *Details*: coming soon
+* *Keywords*: Mixed Reality, avatars, interaction, segmentation
+* *Funding*: ANR (ASTRAL project)
+* *Collaboration*: Inria, Centrale Nantes, Clarté
+* *Location*: Brest, France
+* *Status*: **Available**, starting spring 2024
