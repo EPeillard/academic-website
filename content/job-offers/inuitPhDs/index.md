@@ -75,6 +75,14 @@ Phd Offers
 * *Location*: Brest, France
 * *Status*: **Looking for candidate**, starting late 2024
 
+### Enhancing Workspace and User Awareness in Asymmetric XR Collaboration
+* *Contact*: Cédric Fleury (cedric.fleury@imt-atlantique.fr), Guillaume Moreau (guillaume.moreau@imt-atlantique.fr)
+* *Details*: [here](https://phd.pepr-ensemble.fr/index.cgi/3a8b2f1283634bd2988cea1507abf1d9/pdf)
+* *Keywords*: XR, collaboration, Neural Radiance Fields
+* *Collaboration*: INRIA Rennes and INRIA Sophia Antipolis
+* *Location*: Rennes, France
+* Status: **Looking for candidate**, starting late 2024
+
 
 Postdoc Offers
 --------------
@@ -87,14 +95,6 @@ Postdoc Offers
 * *Collaboration*: Inria, Centrale Nantes, Clarté
 * *Location*: Brest, France
 * *Status*: **Available**, starting spring 2024
-
-### Enhancing Workspace and User Awareness in Asymmetric XR Collaboration
-* *Contact*: Cédric Fleury (cedric.fleury@imt-atlantique.fr), Guillaume Moreau (guillaume.moreau@imt-atlantique.fr)
-* *Details*: [here](https://phd.pepr-ensemble.fr/index.cgi/3a8b2f1283634bd2988cea1507abf1d9/pdf)
-* *Keywords*: XR, collaboration, Neural Radiance Fields
-* *Collaboration*: INRIA Rennes and INRIA Sophia Antipolis
-* *Location*: Rennes, France
-* Status: **Looking for candidate**, starting late 2024
 
 Engineer positions Offers
 -------------------------
