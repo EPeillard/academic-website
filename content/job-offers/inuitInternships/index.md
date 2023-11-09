@@ -25,9 +25,9 @@ draft: false
 - *Mots-clés* : Augmented Reality, collaboration, shared spaces, metaverse
 - Possibilité de continuer en thèse ([sujet](link))
 
-### Étude de la perception du poids en Réalité Augmentée
+### Influence of the Mass of a Tool on Task Performance in Virtual Reality
 - *Contact* : Julien Cauquis (julien.cauquis@clarte-lab.fr) and Étienne Peillard (etienne.peillard@imt-atlantique.fr)
-- *Sujet* : à venir
+- *Sujet* : description en pdf [ici](https://siia.univ-brest.fr/w/images/4/4d/InternshipOffer-InfluenceOfWeight.pdf)
 - *Mots-clés* : réalité augmentée, perception du poids
 
 ### Étudier la mise en place d’affichages de type Réalité Augmentée pour l’assistance à la gestion de l’attention dans le traitement de tâches secondaires et d’alerte
