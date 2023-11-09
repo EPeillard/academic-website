@@ -28,7 +28,7 @@ draft: false
 ### Influence of the Mass of a Tool on Task Performance in Virtual Reality
 - *Contact* : Julien Cauquis (julien.cauquis@clarte-lab.fr) and Étienne Peillard (etienne.peillard@imt-atlantique.fr)
 - *Sujet* : description en pdf [ici](https://www.etiennepeillard.com/job-offers/inuitinternships/InternshipOffer-InfluenceOfWeight.pdf)
-- *Mots-clés* : réalité augmentée, perception du poids
+- *Mots-clés* : Virtual reality, User study, Interaction techniques
 
 ### Étudier la mise en place d’affichages de type Réalité Augmentée pour l’assistance à la gestion de l’attention dans le traitement de tâches secondaires et d’alerte
 - *Contact* : Étienne Peillard (etienne.peillard@imt-atlantique.fr), Thierry Duval (thierry.duval@imt-atlantique.fr), Gilles Coppin (gilles.coppin@imt-atlantique.fr)
