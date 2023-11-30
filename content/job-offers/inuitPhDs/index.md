@@ -83,6 +83,13 @@ Phd Offers
 * *Location*: Rennes, France
 * Status: **Looking for candidate**, starting late 2024
 
+### AI "perceptive assistance" during tele-operations of rovers in Deep Space
+* *Contact*: Guillaume Moreau (guillaume.moreau@imt-atlantique.fr), Gilles Coppin (gilles.coppin@imt-atlantique.fr), Étienne Peillard (etienne.peillard@imt-atlantique.fr)
+* *Details*: [here](https://www.imt-atlantique.fr/sites/default/files/recherche/doctorat/seed/research-topics/15-deep-space.html) 
+* *Keywords*: AI, tele-operation, Virtual Reality, perception
+* *Collaboration*: University of Adelaide, Australia
+* *Location*: Brest, France (2 years) and Adelaide, Australia (1 year)
+* *Status*: **Looking for candidate**, starting late 2024
 
 Postdoc Offers
 --------------

@@ -9,31 +9,38 @@ image:
 draft: false
 ---
 
+{{< toc >}}
+
 ### Conception d’un interacteur et proposition d’interactions tangibles pour le contrôle d’un essaim de robots
 - *Contact* : Sébastien Kubicki (kubicki@enib.fr), Jeremy Riviere (jeremy.riviere@univ-brest.fr), Aymeric Hénard (aymeric.henard@univ-brest.fr)
 - *Sujet* : description en pdf [ici](https://siia.univ-brest.fr/w/images/7/71/2023_09_28-Sujet_Stage_ARTUISIS.pdf) 
 - *Mots-clés* : Interaction Tangible, Robotique, Essaim, Contrôle, Interacteur
+- *Lieu* : **IMT Atlantique, Brest, France**
 
 ### Perception of Shared Spaces in Collaborative Augmented Reality
 - *Contact* : Cédric Fleury (cedric.fleury@imt-atlantique.fr) and Étienne Peillard (etienne.peillard@imt-atlantique.fr)
 - *Sujet* : description en pdf [ici](https://www.etiennepeillard.com/job-offers/inuitinternships/Internship_ARSpaces.pdf)
 - *Mots-clés* : Augmented Reality, collaboration, shared spaces, metaverse
+- *Lieu* : **IMT Atlantique, Brest, France**
 
 ### Hybrid Collaborative across Heterogeneous Devices
 - *Contact* : Cédric Fleury (cedric.fleury@imt-atlantique.fr) and Thierry Duval (thierry.duval@imt-atlantique.fr)
 - *Sujet* : description en pdf [ici](https://www.etiennepeillard.com/job-offers/inuitinternships/Internship_HeterogenousCollab.pdf)
 - *Mots-clés* : Augmented Reality, collaboration, shared spaces, metaverse
+- *Lieu* : **IMT Atlantique, Brest, France**
 - Possibilité de continuer en thèse ([sujet](link))
 
 ### Influence of the Mass of a Tool on Task Performance in Virtual Reality
 - *Contact* : Julien Cauquis (julien.cauquis@clarte-lab.fr) and Étienne Peillard (etienne.peillard@imt-atlantique.fr)
 - *Sujet* : description en pdf [ici](https://www.etiennepeillard.com/job-offers/inuitinternships/InternshipOffer-InfluenceOfWeight.pdf)
 - *Mots-clés* : Virtual reality, User study, Interaction techniques
+- *Lieu* : **IMT Atlantique, Brest, France**
 
 ### Étudier la mise en place d’affichages de type Réalité Augmentée pour l’assistance à la gestion de l’attention dans le traitement de tâches secondaires et d’alerte
 - *Contact* : Étienne Peillard (etienne.peillard@imt-atlantique.fr), Thierry Duval (thierry.duval@imt-atlantique.fr), Gilles Coppin (gilles.coppin@imt-atlantique.fr)
 - *Sujet* : description en pdf [ici](https://siia.univ-brest.fr/w/images/4/4d/Stages_PARAPOU2.pdf)
 - *Mots-clés* : Augmented Reality, Attention Management, Human Factors, User Study
+- *Lieu* : **IMT Atlantique, Brest, France**
 - Deux stages de 6 mois sont à pourvoir sur ce sujet. Les descriptifs exacts des sujets seront précisés en fonction des profils des candidats.
 
 ### AR study for controlling an autonomous system
@@ -52,3 +59,11 @@ draft: false
 - *Contact* : Étienne Peillard (etienne.peillard@imt-atlantique.fr) et Nathalie Le Bigot (nathalie.lebigot@univ-brest.fr)
 - *Sujet* : à venir
 - *Mots-clés* : réalité augmentée, perception du corps, expériences utilisateurs
+- *Lieu* : **IMT Atlantique, Brest, France**
+
+### Création d’un outil de représentation numérique de la pollution lumineuse en 3D temps réel
+- *Contact* : Étienne Peillard (etienne.peillard@imt-atlantique.fr), Myriam Servières (myriam.servieres@ec-nantes.fr) et Nicolas Houel (nicolas.houel@gmail.com)
+- *Sujet* : description en pdf [ici](https://www.etiennepeillard.com/job-offers/inuitinternships/observatoireNuitIntern.pdf)
+- *Mots-clés* : réalité augmentée, pollution lumineuse, visualisation
+- *Lieu* : **Observatoire de la Nuit, Nantes, France**
+- Possibilité de continuer en thèse. ([sujet](https://www.etiennepeillard.com/job-offers/inuitphds/#perception-and-representation-of-city-lighting-and-night-time-atmospheres-in-augmented-reality))
