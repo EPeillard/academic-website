@@ -21,8 +21,10 @@ design:
         Aymeric Henard   : active, aHenard, 2021-09-01, 2024-08-31
         Julien Cauquis   : active, 2022-03-01, 2025-02-28
         Thi Thanh Hoa Tran : active, 2022-09-01, 2025-08-31
+        Angelica Mori : active, 2023-10-01, 2026-09-30
+        Juri Yonegawa : 2024-09-01, 2027-08-31
     section Post-doc
-        Marie Jarrell   : active, 2021-11-01, 2023-10-31
+        Marie Jarrell   : 2021-11-01, 2023-10-31
         Anjara Nobby Rakotoarivelo  : active, 2023-01-01, 2023-12-31
     section Research engineers
         Jérémie Donjat  : 2022-12-01, 2023-05-31
@@ -34,4 +36,7 @@ design:
         Nolwenn Paluet: 2023-03-01, 2023-08-31
         Clément Jézéquel: 2023-03-01, 2023-08-31
         Ambre Daigremont: 2023-04-01, 2023-07-31
+        Taha Lamine: 2023-04-01, 2023-08-31
+        Clémence Cunin: 2024-03-01, 2024-08-31
+        Georges Simbe: 2024-02-01, 2024-05-31
 {{< /mermaid >}}

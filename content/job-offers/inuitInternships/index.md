@@ -2,7 +2,7 @@
 title: Offres de stages disponibles pour 2024
 summary: "Offres de stages disponibles dans l'équipe Inuit pour 2024"
 date: "2023-11-02T00:00:00Z"
-lastMod: "2023-11-02T00:00:00Z"
+lastMod: "2023-12-12T00:00:00Z"
 image:
   caption: ""
   focal_point: ""
@@ -35,19 +35,6 @@ draft: false
 - *Sujet* : description en pdf [ici](https://www.etiennepeillard.com/job-offers/inuitinternships/InternshipOffer-InfluenceOfWeight.pdf)
 - *Mots-clés* : Virtual reality, User study, Interaction techniques
 - *Lieu* : **IMT Atlantique, Brest, France**
-
-### Étudier la mise en place d’affichages de type Réalité Augmentée pour l’assistance à la gestion de l’attention dans le traitement de tâches secondaires et d’alerte
-- *Contact* : Étienne Peillard (etienne.peillard@imt-atlantique.fr), Thierry Duval (thierry.duval@imt-atlantique.fr), Gilles Coppin (gilles.coppin@imt-atlantique.fr)
-- *Sujet* : description en pdf [ici](https://siia.univ-brest.fr/w/images/4/4d/Stages_PARAPOU2.pdf)
-- *Mots-clés* : Augmented Reality, Attention Management, Human Factors, User Study
-- *Lieu* : **IMT Atlantique, Brest, France**
-- Deux stages de 6 mois sont à pourvoir sur ce sujet. Les descriptifs exacts des sujets seront précisés en fonction des profils des candidats.
-
-### AR study for controlling an autonomous system
-- *Contact* : James Walsh (James.Walsh@unisa.edu.au), Étienne Peillard (etienne.peillard@imt-atlantique.fr)
-- *Sujet* : Previous work has shown that using augmented reality to display information related to the decision context of an autonomous system increases the user’s confidence in it. This was demonstrated in the case of a driving simulator, even when the information displayed was not related to the driving task. However, it is also known that the link between the user and the system can be enhanced by allowing the user to customize the system. The hypothesis that then emerges is that customizing the interface in AR could enable the user to increase trust.  This internship proposes to explore this question through an experiment. The work to be carried out will be i) complete a review of the state of the art concerning the link between customization, AR and trust, ii) propose an experiment to test the research hypotheses, iii) adapt the existing experiment simulator to run the experiment, iv) run the experiment and analyze the results with the supervising team and v) participate to the writing of a related research paper
-- *Mots-clés* : Augmented Reality, Trust, Autonomous System, Customization
-- *Lieu* : **University of South Australia, Adelaide, Australia**
 
 ### Experimental study of perception in Virtual Reality
 - *Contact* : Étienne Peillard (etienne.peillard@imt-atlantique.fr), Prof. Anna Ma-Wyatt (anna.mawyatt@adelaide.edu.au)

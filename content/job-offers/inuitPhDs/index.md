@@ -1,7 +1,7 @@
 ---
 title: PhD and postdoc positions available for 2024
 date: "2023-11-02T00:00:00Z"
-lastMod: "2023-11-02T00:00:00Z"
+lastMod: "2023-12-12T00:00:00Z"
 image:
 caption: ""
 focal_point: ""
@@ -37,15 +37,6 @@ Phd Offers
 * *Collaboration*: University of South Australia and Naval Group Pacific
 * *Location*: Adelaide, Australia
 * *Status*: **Available**, starting asap
-
-### Interacting with Avatars in the Reality-Virtuality Continuum
-* *Contact*: Argelaguet Sanz Fernando (ferran.argelaguet@inria.fr) and Étienne Peillard (etienne.peillard@imt-atlantique.fr)
-* *Details*: [here](https://www.etiennepeillard.com/job-offers/inuitPhDs/astralOffer.pdf)
-* *Keywords*: Mixed Reality, avatars, interaction
-* *Funding*: ANR (ASTRAL project)
-* *Collaboration*: Inria
-* *Location*: Rennes, France
-* *Status*: **Available**, starting september 2024
 
 ### Perception and representation of city lighting and night-time atmospheres in Augmented Reality
 * *Contact*: Étienne Peillard (etienne.peillard@imt-atlantique.fr) and Myriam Servières (myriam.servieres@ec-nantes.fr)
@@ -84,7 +75,7 @@ Phd Offers
 * Status: **Looking for candidate**, starting late 2024
 
 ### AI "perceptive assistance" during tele-operations of rovers in Deep Space
-* *Contact*: Guillaume Moreau (guillaume.moreau@imt-atlantique.fr), Gilles Coppin (gilles.coppin@imt-atlantique.fr), Étienne Peillard (etienne.peillard@imt-atlantique.fr)
+* *Contact*: Guillaume Moreau (guillaume.moreau@imt-atlantique.fr), Étienne Peillard (etienne.peillard@imt-atlantique.fr)
 * *Details*: [here](https://www.imt-atlantique.fr/sites/default/files/recherche/doctorat/seed/research-topics/15-deep-space.html) 
 * *Keywords*: AI, tele-operation, Virtual Reality, perception
 * *Collaboration*: University of Adelaide, Australia
