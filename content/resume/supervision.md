@@ -12,6 +12,9 @@ design:
 ---
 
 {{< mermaid >}}
+---
+displayMode: compact
+---
   gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
@@ -36,7 +39,7 @@ design:
         Nolwenn Paluet: 2023-03-01, 2023-08-31
         Clément Jézéquel: 2023-03-01, 2023-08-31
         Ambre Daigremont: 2023-04-01, 2023-07-31
-        Taha Lamine: 2023-04-01, 2023-08-31
+        Taha Lamine: 2024-04-01, 2024-08-31
         Clémence Cunin: 2024-03-01, 2024-08-31
         Georges Simbe: 2024-02-01, 2024-05-31
 {{< /mermaid >}}
