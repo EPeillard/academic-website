@@ -1,5 +1,6 @@
 ---
-title: PhD and postdoc positions available for 2024
+title: "PhD and postdoc"
+summary: "PhD and postdoc positions available in the INUIT team for 2024"
 date: "2023-11-02T00:00:00Z"
 lastMod: "2023-12-12T00:00:00Z"
 image:

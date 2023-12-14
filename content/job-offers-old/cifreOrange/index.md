@@ -3,7 +3,7 @@ title: PhD offer
 summary: Mutual Representation of Remote Collaborative Augmented Environments
 tags: [Augmented Reality, Collaboration]
 date: "2022-03-24T00:00:00Z"
-draft: false
+draft: true
 
 projects: [marae]
 

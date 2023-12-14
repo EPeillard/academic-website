@@ -1,6 +1,6 @@
 ---
-title: Offres de stages disponibles pour 2024
-summary: "Offres de stages disponibles dans l'équipe Inuit pour 2024"
+title: "Internships"
+summary: "Internships available in the Inuit team for 2024"
 date: "2023-11-02T00:00:00Z"
 lastMod: "2023-12-12T00:00:00Z"
 image:
