@@ -49,24 +49,6 @@ Phd Offers
 * *Status*: **Looking for candidate**, starting late 2024
 * *Note*: This topic is in partnership with an urban planning consultancy specializing in lighting environments. The candidate will be employed there (under a CIFRE contract), and the PhD topic will be jointly written with the company. The candidate will therefore need to demonstrate an interest and/or skills in both the technical field of mixed reality, and in urban planning and architecture aspects. 
 
-### Virtual Asymmetric Collaboration with Hybrid Embodiment
-* *Contact*: Étienne Peillard (etienne.peillard@imt-atlantique.fr), Jean-Marie Normand (jean-marie.normand@ec-nantes.fr), Rebecca Fribourg (rebecca.fribourg@ec-nantes.fr)
-* *Details*: [here](https://www.etiennepeillard.com/job-offers/inuitPhDs/These_PEPR_hybridAvatars.pdf)
-* *Keywords*: Mixed Reality, avatars, collaboration
-* *Funding*: PEPR Ensemble
-* *Collaboration*: Centrale Nantes
-* *Location*: Nantes, France
-* *Status*: **Looking for candidate**, starting late 2024
-
-### Perception of Shared Spaces in Collaborative Augmented Reality
-* *Contact*: Cédric Fleury (cedric.fleury@imt-atlantique.fr), Étienne Peillard (etienne.peillard@imt-atlantique.fr) and Nathalie Le Bigot (nathalie.lebigot@univ-brest.fr)
-* *Details*: [here](https://www.etiennepeillard.com/job-offers/inuitPhDs/Sujet_these_eNSEMBLE_PercARSpace.pdf)
-* *Keywords*: Augmented Reality, collaboration, shared spaces, metaverse
-* *Funding*: PEPR Ensemble
-* *Collaboration*: Université de Bretagne Occidentale
-* *Location*: Brest, France
-* *Status*: **Looking for candidate**, starting late 2024
-
 ### Enhancing Workspace and User Awareness in Asymmetric XR Collaboration
 * *Contact*: Cédric Fleury (cedric.fleury@imt-atlantique.fr), Guillaume Moreau (guillaume.moreau@imt-atlantique.fr)
 * *Details*: [here](https://phd.pepr-ensemble.fr/index.cgi/3a8b2f1283634bd2988cea1507abf1d9/pdf)
@@ -88,19 +70,11 @@ Postdoc Offers
 
 ### Using avatars in Mixed Reality. Creation of an experimentation platform and development of avatarization algorithms
 * *Contact*: Étienne Peillard (etienne.peillard@imt-atlantique.fr) and Guillaume Moreau (guillaume.moreau@imt-atlantique.fr)
-* *Details*: coming soon
+* *Details*: Here in [French](https://institutminestelecom.recruitee.com/o/post-doctorat-en-conception-de-methodes-de-representation-davatars-en-realite-augmentee-fhcdd-18-mois-de-droit-public-2-3) and [English](https://institutminestelecom.recruitee.com/l/en/o/post-doctorat-en-conception-de-methodes-de-representation-davatars-en-realite-augmentee-fhcdd-18-mois-de-droit-public-2-3 )
+
 * *Keywords*: Mixed Reality, avatars, interaction, segmentation
 * *Funding*: ANR (ASTRAL project)
 * *Collaboration*: Inria, Centrale Nantes, Clarté
 * *Location*: Brest, France
 * *Status*: **Available**, starting spring 2024
 
-Engineer positions Offers
--------------------------
-
-### Platform engineer for the Augmented Human and Interaction Experimentation Center
-* *Contact*: Étienne Peillard (etienne.peillard@imt-atlantique.fr)
-* *Details*: [here](https://www.etiennepeillard.com/job-offers/inuitPhDs/ingeCEXI.pdf) (only avalaible in French)
-* *Location*: Brest, France
-* *Status*: **Available**, starting January 2024
-* *Note*: This position aims to deploy and strengthen the IMT Atlantique experimentation platform. This position aims to be perpetuated in the following years.
