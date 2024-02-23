@@ -32,7 +32,7 @@ Phd Offers
 
 ### Immersive narrative visualisation for understanding autonomous maritime vessels
 * *Contact*: Étienne Peillard (etienne.peillard@imt-atlantique.fr) and Andrew Cunningham (andrew.cunningham@unisa.edu.au)
-* *Details*: [here](https://www.etiennepeillard.com/job-offers/inuitPhDs/WP3–NarrativevisualisationHMIanddialogmanagementPhD.pdf)
+* *Details*: [here](https://www.etiennepeillard.com/job-offers/inuitPhDs/WP3–NarrativevisualisationHMIanddialogmanagementPhD.pdf), application [on UniSA website](https://unisa.edu.au/research/degrees/understanding-autonomous-maritime-vessels)
 * *Keywords*: Mixed Reality, immersive visualization, autonomous maritime vessels
 * *Funding*: Industry funded (Naval Group)
 * *Collaboration*: University of South Australia and Naval Group Pacific

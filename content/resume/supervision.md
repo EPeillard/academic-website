@@ -28,9 +28,10 @@ displayMode: compact
         Juri Yonegawa : 2024-09-01, 2027-08-31
     section Post-doc
         Marie Jarrell   : 2021-11-01, 2023-10-31
-        Anjara Nobby Rakotoarivelo  : active, 2023-01-01, 2023-12-31
+        Anjara Nobby Rakotoarivelo  : 2023-01-01, 2023-12-31
     section Research engineers
         Jérémie Donjat  : 2022-12-01, 2023-05-31
+        Pierre Fayol : active, 2024-02-01, 2024-12-31 
     section Master students
         Guyllian Gomez: 2021-01-19, 2021-07-30
         Lucas Bernin: 2022-01-31, 2022-07-15
@@ -39,7 +40,10 @@ displayMode: compact
         Nolwenn Paluet: 2023-03-01, 2023-08-31
         Clément Jézéquel: 2023-03-01, 2023-08-31
         Ambre Daigremont: 2023-04-01, 2023-07-31
-        Taha Lamine: 2024-04-01, 2024-08-31
-        Clémence Cunin: 2024-03-01, 2024-08-31
-        Georges Simbe: 2024-02-01, 2024-05-31
+        Taha Lamine: active, 2024-04-01, 2024-08-31
+        Clémence Cunin: active, 2024-03-01, 2024-08-31
+        Georges Simbe: active, 2024-01-08, 2024-03-31
+        Marie-Cécile Leculier: active, 2024-02-21, 2024-06-28
+        Lory Somphonphakdy: 2024-04-01, 2024-08-31
+        Lucas Thomesse: 2024-04-02, 2024-09-27
 {{< /mermaid >}}
