@@ -2,7 +2,7 @@
 title: "PhD and postdoc"
 summary: "PhD and postdoc positions available in the INUIT team for 2024"
 date: "2023-11-02T00:00:00Z"
-lastMod: "2023-12-12T00:00:00Z"
+lastMod: "2024-06-26T00:00:00Z"
 image:
 caption: ""
 focal_point: ""
@@ -59,6 +59,16 @@ Phd Offers
 * *Collaboration*: Institut Arts et Métiers - LISPEN XR
 * *Funding*: GORAFI project (Gestion Optimisée de la Réalité Augmentée pour le Futur de l'Industrie), RéCLasSIF (Réseau de Campus Labélisés Solutions pour l'Industrie du Futur)
 * *Location*: Brest, France
+* *Status*: **Looking for candidate**, starting late 2024
+
+
+### From lab experiments to on-field applications: the effect of movement and motion on perception in Augmented Reality 
+
+* *Details*: [On the PhD program webpage](https://aufrande.eu/position/dc56/)
+* *Keywords*: computer science, psychology, augmented reality, visual perception
+* *Collaboration*: University of Adelaïde
+* *Funding*: AUFRAND program
+* *Location*: Brest, France + Adelaïde, Australia (1 year)
 * *Status*: **Looking for candidate**, starting late 2024
 
 
